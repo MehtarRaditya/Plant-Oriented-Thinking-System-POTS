@@ -1,5 +1,3 @@
-# Plant-Oriented-Thinking-System-POTS
-
 # 🌱 ESP32 Smart Gardening – Plant Oriented Thinking System (POTS)
 
 ### Overview
