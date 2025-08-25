@@ -20,11 +20,13 @@ All data can be accessed in real-time via Wi-Fi.
 - Capacitive Soil Moisture Sensor (recommended over resistive)  
 - Humidity & Temperature Sensor DHT11
 - Water Pump + Relay (Both 5 Volts)
+- MT3608 Step Up Module
 - (Optional) Li-Ion / Li-Po Battery + TP4056 Charger
 
 ---
 
 ### 📐 System Diagram
+![Alt text](/Images/circuit_images?raw=true "Diagram")
 (https://app.cirkitdesigner.com/project/3e17d283-c36b-4758-a19a-d7adb212ccc9)
 
 ---
