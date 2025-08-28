@@ -1,6 +1,7 @@
 # 🌱 ESP32 Smart Gardening – Plant Oriented Thinking System (POTS)
 
 ### Overview
+![Main POTS](Images/Project_irl.png "POTS")
 Plant Oriented Thinking System (POTS) is a smart IoT-based gardening automation system that helps monitor and maintain plants efficiently.  
 It uses the ESP32 microcontroller, soil moisture sensor, and light sensor to collect environmental data.  
 When soil moisture drops below a threshold, the system automatically activates a water pump to irrigate plants.  
